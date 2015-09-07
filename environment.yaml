@@ -1,0 +1,8 @@
+name: pdb-workout
+dependencies:
+- ipython
+- jupyter
+- pip
+- python=3
+- pip:
+  - ipdb
