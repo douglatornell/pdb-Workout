@@ -2,6 +2,9 @@ name: pdb-workout
 dependencies:
 - ipython
 - jupyter
+- matplotlib
+- nose
+- numpy
 - pip
 - python=3
 - pip:
